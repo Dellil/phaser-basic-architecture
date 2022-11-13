@@ -19,6 +19,6 @@
     "html-webpack-plugin": "^4.2.0",
     "live-server": "^1.2.1",
     "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   }
 }
